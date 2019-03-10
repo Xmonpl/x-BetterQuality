@@ -1,0 +1,13 @@
+{
+  "configuration": {
+    "virutal-server-id": 1,
+    "query-password": "passwd",
+    "query-address": "127.0.0.1",
+    "query-port": 10011,
+    "query-login": "serveradmin",
+    "debug": false,
+    "message": "Tu Będzie taka fajna fajowa wiadomość, która jest fajna i fajowa.",
+    "ignorechannel": "3;15;18;20",
+    "poczekalniaid": 37
+  }
+}
